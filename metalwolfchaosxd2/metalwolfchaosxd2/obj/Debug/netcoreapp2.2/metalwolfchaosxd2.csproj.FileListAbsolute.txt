@@ -1,0 +1,10 @@
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\bin\Debug\netcoreapp2.2\metalwolfchaosxd2.deps.json
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\bin\Debug\netcoreapp2.2\metalwolfchaosxd2.runtimeconfig.json
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\bin\Debug\netcoreapp2.2\metalwolfchaosxd2.runtimeconfig.dev.json
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\bin\Debug\netcoreapp2.2\metalwolfchaosxd2.dll
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\bin\Debug\netcoreapp2.2\metalwolfchaosxd2.pdb
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\obj\Debug\netcoreapp2.2\metalwolfchaosxd2.csproj.CoreCompileInputs.cache
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\obj\Debug\netcoreapp2.2\metalwolfchaosxd2.AssemblyInfoInputs.cache
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\obj\Debug\netcoreapp2.2\metalwolfchaosxd2.AssemblyInfo.cs
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\obj\Debug\netcoreapp2.2\metalwolfchaosxd2.dll
+C:\Users\Poast\source\backend class stuff\metalwolfchaosxd2\metalwolfchaosxd2\obj\Debug\netcoreapp2.2\metalwolfchaosxd2.pdb

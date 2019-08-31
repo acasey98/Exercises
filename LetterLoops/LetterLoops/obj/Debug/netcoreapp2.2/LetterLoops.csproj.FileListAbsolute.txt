@@ -1,0 +1,11 @@
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.deps.json
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.json
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.dev.json
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.pdb
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csprojAssemblyReference.cache
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csproj.CoreCompileInputs.cache
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfoInputs.cache
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfo.cs
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\Poast\source\backend class stuff\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.pdb
